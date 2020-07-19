@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yogindra Raghav (YogiOnBioinformatics)</h1>
-<h3 align="center">Bioinformatics/Computational Biology Research Scientist at <span style="color:red">MIT</span> and the <span style="color:blue">Broad Institute of MIT and Harvard</span>!</h3>
+<h3 align="center">Bioinformatics/Computational Biology Research Scientist at <font color="red">MIT</font> and the <font color="blue">Broad Institute of MIT and Harvard</font>!</h3>
 
 <div class="row">
   <div class="column">
