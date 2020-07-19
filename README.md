@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yogindra Raghav (YogiOnBioinformatics)</h1>
 <div class="row">
   <div class="column">
-    <img width="200" height="200" align="left" src="https://avatars1.githubusercontent.com/u/38919947?s=460&u=49ab1365a14fac78a91e425efd583f7a2bcb3e25&v=4" alt="banner">
+    <img width="300" height="300" align="left" src="https://avatars1.githubusercontent.com/u/38919947?s=460&u=49ab1365a14fac78a91e425efd583f7a2bcb3e25&v=4" alt="banner">
   </div>
   <div class="column">
-    <img width="300" height="200" align="center" src="https://github.com/hugogomess/hugogomess/blob/master/hacking.gif">
+    <img width="400" height="300" align="center" src="https://github.com/hugogomess/hugogomess/blob/master/hacking.gif">
   </div>
 </div>
 
