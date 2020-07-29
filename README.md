@@ -61,7 +61,7 @@
 
 <br>
 
-- 📫 How to reach me: **yraghav@mit.edu**
+- 📫 How to reach me: **yraghav97@gmail.com**
 
 ### Platforms/Operating Systems 
 
