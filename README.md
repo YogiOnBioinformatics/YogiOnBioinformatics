@@ -84,6 +84,60 @@
   </tbody>
 </table>
 
+
+### Languages
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span><strong>Python</strong><span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>R</strong><span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/r-lang.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Bash</strong><span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Java</strong><span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>C++</strong><span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span><strong>HTML</strong><span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>CSS</strong><span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>JavaScript</strong><span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>YAML</strong><span><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Markdown</strong><span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/markdown.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+       
+
+
 <p align="center">
 <a href="https://dev.to/https://dev.to/yogionbioinformatics" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/yogionbioinformatics" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yogionbioinformatics/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/yogionbioinformatics/" height="20" width="20" /></a>
