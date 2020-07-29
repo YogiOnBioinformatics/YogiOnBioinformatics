@@ -25,17 +25,31 @@
 
 ⚡ **CAPTAIN. LEADER. ASPIRING SCIENTIST/AUTHOR. PHILOSOPHER.** ⚡
 
-- 💬 Ask me about:
-  * Computational Genomics 
-  * Computational Proteomics
-  * Computational Drug Discovery 
-  * Web Frontend Development
-  * Data Science
-  * Data Engineering
-  * Data Maintenance
-  * Containerization 
-  * Mentorship 
-  * Working with Scientists & Consortiums 
+- 💬 Ask me about: 
+<table>
+  <tbody>
+    <tr>
+      <td>Computational Genomics</td>
+      <td>Computational Proteomics</td>
+    </tr>
+    <tr>
+      <td>Computational Drug Discovery</td>
+      <td>Web Frontend Development</td>
+    </tr>
+    <tr>
+      <td>Data Science</td>
+      <td>Data Engineering</td>
+    </tr>
+    <tr>
+      <td>Data Maintenance</td>
+      <td>Containerization</td>
+    </tr>
+    <tr>
+      <td>Mentorship</td>
+      <td>Working with Scientists & Consortiums</td>
+    </tr>
+  </tbody>
+</table>
 
 - 📫 How to reach me: **yraghav@mit.edu**
 
