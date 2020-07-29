@@ -241,13 +241,11 @@
 </table>
 
 
+![profile counter](https://profile-counter.glitch.me/YogiOnBioinformatics/count.svg)
+
 
 <p align="center">
-<a href="https://dev.to/https://dev.to/yogionbioinformatics" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/yogionbioinformatics" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yogionbioinformatics/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/yogionbioinformatics/" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/https://stackoverflow.com/users/10007125/yogionbioinformatics" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/10007125/yogionbioinformatics" height="20" width="20" /></a>
+<a href="https://dev.to/https://dev.to/yogionbioinformatics" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/yogionbioinformatics" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yogionbioinformatics/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/yogionbioinformatics/" height="50" width="50" /></a>
+<a href="https://stackoverflow.com/https://stackoverflow.com/users/10007125/yogionbioinformatics" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/10007125/yogionbioinformatics" height="50" width="50" /></a>
 </p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogionbioinformatics" alt="https://github.com/yogionbioinformatics" /> </p>
-
