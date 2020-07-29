@@ -135,7 +135,59 @@
     </tr>
   </tbody>
 </table>
-       
+      
+### Technologies/Tools 
+
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span><strong>Git</strong><span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>GitHub</strong><span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>GitLab</strong><span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/gitlab.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Jupyter/JupyterLab</strong><span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jupyter.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Visual Studio Code</strong><span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span><strong>Flask</strong><span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Django</strong><span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>NumPy</strong><span><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>SciPy</strong><span><br><br>
+        <img height="64px" src="https://jblevins.org/svg/scipy.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Pandas</strong><span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 <p align="center">
