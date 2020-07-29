@@ -55,16 +55,34 @@
 
 - 📫 How to reach me: **yraghav@mit.edu**
 
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  <img src="https://konpa.github.io/devicon/devicon.git/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> <img
-src="https://konpa.github.io/devicon/devicon.git/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></p><p align="center"> 
+### Platforms/Operating Systems 
 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-  
- <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/yogionbioinformatics&show_icons=true" alt="https://github.com/yogionbioinformatics" /> </p>
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span><strong>Linux</strong><span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Google Cloud</strong><span><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Microsoft Azure</strong><span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/azure-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Chrome OS</strong><span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/chrome.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Microsoft Windows</strong><span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/microsoft-windows.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <p align="center">
 <a href="https://dev.to/https://dev.to/yogionbioinformatics" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/yogionbioinformatics" height="20" width="20" /></a>
