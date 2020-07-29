@@ -48,6 +48,14 @@
       <td>Mentorship</td>
       <td>Working with Scientists & Consortiums</td>
     </tr>
+    <tr>
+      <td>High-Performance Computing (HPC) Systems</td>
+      <td>Cloud Computing</td>
+    </tr>
+    <tr>
+      <td>Bioinformatics Pipeline Creation/Maintenance</td>
+      <td>Free & Open-Source Software (FOSS)</td>
+    </tr>
   </tbody>
 </table>
 
