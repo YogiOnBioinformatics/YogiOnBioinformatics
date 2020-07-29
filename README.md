@@ -185,6 +185,50 @@
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png">
       </td>
     </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span><strong>Docker</strong><span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Singularity</strong><span><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/singularity.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>WDL</strong><span><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/file-icons/source/master/svg/WDL.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Terra</strong><span><br><br>
+        <img height="64px" src="https://images.squarespace-cdn.com/content/5c5a38e12727be0ca6a81209/1550244499020-Z9ZNFAE8YQ1CV5EFMCKQ/Terra-Logo.png?content-type=image%2Fpng">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Cromwell</strong><span><br><br>
+        <img height="64px" src="https://cromwell.readthedocs.io/en/stable/jamie_the_cromwell_pig.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span><strong>Blender</strong><span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Blenderlogo.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Globus</strong><span><br><br>
+        <img height="64px" src="https://sciencegateways.org/documents/20182/24917/Globus_Blue_2013_square200.png/f076b910-d2eb-434b-84ff-002b2f62d343?t=1536072673277">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Tmux</strong><span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Tmux_logo.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Jekyll</strong><span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jekyll.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Matplotlib</strong><span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg">
+      </td>
+    </tr>
   </tbody>
 </table>
 
