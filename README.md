@@ -239,10 +239,83 @@
     </tr>
   </tbody>
 </table>
+        
+
+### Bioinformatics Databases 
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span><strong>NCBI GEO</strong><span><br><br>
+        <img height="64px" src="https://www.ncbi.nlm.nih.gov/geo/img/geo_main.gif">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>NCBI SRA</strong><span><br><br>
+        <img height="64px" src="https://www.lib.berkeley.edu/BIOS/images/NCBI-Logo_sm.jpg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>International Human Epigenome Consortium</strong><span><br><br>
+        <img height="64px" src="https://pbs.twimg.com/profile_images/591220377512189952/ANrpYvKO_400x400.png">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>1000 Genomes</strong><span><br><br>
+        <img height="64px" src="https://www.genome.gov/sites/default/files/genome-old/images/content/1000genomes.jpg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>RefSeq</strong><span><br><br>
+        <img height="64px" src="https://rnacentral.org/static/img/expert-db-logos/refseq.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span><strong>dbSNP</strong><span><br><br>
+        <img height="64px" src="https://lw-static-files.s3.amazonaws.com/public/logos/1010.png">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>ClinVar</strong><span><br><br>
+        <img height="64px" src="https://blog.questdiagnostics.com/wp-content/uploads/2016/07/ClinVar-Blog-Small-Banner-Image.png">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>XenBase</strong><span><br><br>
+        <img height="64px" src="https://pbs.twimg.com/profile_images/3375548252/fd7fd00997b083d68ec8d263f9fab3ae_400x400.jpeg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>antiSmash</strong><span><br><br>
+        <img height="64px" src="https://antismash.secondarymetabolites.org/images/antismash_logo.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>PDB</strong><span><br><br>
+        <img height="64px" src="https://cdn.rcsb.org/wwpdb/img/core/wwpdb-logo.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span><strong>UniProt</strong><span><br><br>
+        <img height="64px" src="https://www.uniprot.org/images/logos/Logo_medium.png">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>PubChem</strong><span><br><br>
+        <img height="64px" src="https://pubchemblog.files.wordpress.com/2019/12/pubchem_splash.png?w=200">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>PDBbind</strong><span><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSgsiR_VgVcv1W3OMd42OU7m-ClEmpQTkFXcA&usqp=CAU">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>BindingDB</strong><span><br><br>
+        <img height="64px" src="https://www.bindingdb.org/images/newlogo.gif">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>DrugBank</strong><span><br><br>
+        <img height="64px" src="https://www.drugbank.ca/assets/logo-pink-bd7264e3b993f48d681445728e394507ac912eb6e426e52c6d3230a78dae4bc6.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 ### Stats
-
 Profile Views: &ensp; ![profile counter](https://profile-counter.glitch.me/YogiOnBioinformatics/count.svg)
 
 <img src="https://github-readme-stats.vercel.app/api?username=YogiOnBioinformatics&count_private=true&show_icons=true&theme=radical&line_height=40&show_owner=true" align="left">
