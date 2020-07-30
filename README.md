@@ -315,6 +315,121 @@
 </table>
 
 
+### Bioinformatics Tools 
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span><strong>NCBI BLAST</strong><span><br><br>
+        <img height="64px" src="https://blast.ncbi.nlm.nih.gov/images/nucleutide-blast-cover.png">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>UCSC Genome Browser</strong><span><br><br>
+        <img height="64px" src="https://www.melbournebioinformatics.org.au/wp-content/uploads/2018/09/ucsc-genome-browser-250.png">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>cutadapt</strong><span><br><br>
+        <img height="64px" src="https://cyverseuk.org/wp-content/uploads/2017/05/cutadapt.png">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>HISAT2</strong><span><br><br>
+        <img height="64px" src="http://daehwankimlab.github.io/hisat2/assets/img/ogp.png">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Bowtie2</strong><span><br><br>
+        <img height="64px" src="http://bowtie-bio.sourceforge.net/bowtie2/images/bowtie_logo.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span><strong>Stringtie</strong><span><br><br>
+        <img height="64px" src="https://ccb.jhu.edu/software/stringtie/stringtie_logo.png">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>featureCounts</strong><span><br><br>
+        <img height="64px" src="http://subread.sourceforge.net/images/SubreadSmallLogo.png">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>DESeq2</strong><span><br><br>
+        <img height="64px" src="https://hbctraining.github.io/DGE_workshop/img/de_theory.png">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>samtools</strong><span><br><br>
+        <img height="64px" src="https://cyverseuk.org/wp-content/uploads/2017/05/samtools.png">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>bedtools</strong><span><br><br>
+        <img height="64px" src="https://bedtools.readthedocs.io/en/latest/_static/bedtools.swiss.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span><strong>NCBI SRATools</strong><span><br><br>
+        <img height="64px" src="https://edwards.sdsu.edu/research/wp-content/uploads/2020/01/vdb-config2.png">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>MACS</strong><span><br><br>
+        <img height="64px" src="https://hbctraining.github.io/Intro-to-ChIPseq/img/model-macs.png">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>MEME-ChIP</strong><span><br><br>
+        <img height="64px" src="http://meme-suite.org/doc/images/memechip_icon.png">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>HOMER</strong><span><br><br>
+        <img height="64px" src="http://homer.ucsd.edu/homer/pic2.gif">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>IDR</strong><span><br><br>
+        <img height="64px" src="https://hbctraining.github.io/Intro-to-ChIPseq/img/Pou5f1-idr.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span><strong>deepTools</strong><span><br><br>
+        <img height="64px" src="https://deeptools.readthedocs.io/en/develop/_images/start_workflow1.png">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Bioconductor</strong><span><br><br>
+        <img height="64px" src="https://bioconductor.org/images/logo/jpg/bioconductor_logo_rgb.jpg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>EMBOSS</strong><span><br><br>
+        <img height="64px" src="https://lh3.googleusercontent.com/proxy/jXSuo67UDaGi9VHJgdYYIug9_xkYnhgtDknIo_HZtgnfdpk38KeZFPl3l2VUgUiDvhvi0aWf1nu8ZFOEMnF-osZsMAbci7g">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>MEGAX</strong><span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/MEGA7_logo.png/250px-MEGA7_logo.png">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>SWISS-MODEL</strong><span><br><br>
+        <img height="64px" src="https://swissmodel.expasy.org/static/images/sib_ExPASy_logo_small.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span><strong>FTMap</strong><span><br><br>
+        <img height="64px" src="https://ftmap.bu.edu/image/banner_ftmap.png">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>NAMD</strong><span><br><br>
+        <img height="64px" src="https://www.ks.uiuc.edu/Research/namd/logo/namd_logo_left.gif">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>VMD</strong><span><br><br>
+        <img height="64px" src="https://images.exxactcorp.com/CMS/landing-page/resource-center/supported-software/molecular-dynamics/vmd/VMD-Logo.jpg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong></strong><span><br><br>
+      </td>
+      <td width="20%" align="center">
+        <span><strong></strong><span><br><br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### Stats
 Profile Views: &ensp; ![profile counter](https://profile-counter.glitch.me/YogiOnBioinformatics/count.svg)
 
