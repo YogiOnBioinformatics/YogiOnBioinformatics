@@ -468,5 +468,5 @@ Profile Views: &ensp; ![profile counter](https://profile-counter.glitch.me/YogiO
 <p align="center">
 <a href="https://dev.to/https://dev.to/yogionbioinformatics" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/yogionbioinformatics" height="100" width="100" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yogionbioinformatics/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/yogionbioinformatics/" height="100" width="100" /></a>
-<a href="https://stackoverflow.com/https://stackoverflow.com/users/10007125/yogionbioinformatics" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/10007125/yogionbioinformatics" height="100" width="100" /></a>
+<a href="https://stackoverflow.com/users/10007125/yogionbioinformatics" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/10007125/yogionbioinformatics" height="100" width="100" /></a>
 </p>
