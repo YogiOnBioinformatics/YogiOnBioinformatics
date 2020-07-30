@@ -245,6 +245,9 @@
 
 Profile Views: &ensp; ![profile counter](https://profile-counter.glitch.me/YogiOnBioinformatics/count.svg)
 
+<img src="https://github-readme-stats.vercel.app/api?username=YogiOnBioinformatics&count_private=true&show_icons=true&theme=radical&line_height=40&show_owner=true" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogiOnBioinformatics&count_private=true&show_icons=true&theme=radical&line_height=40&show_owner=true" align="center">
+
 
 <p align="center">
 <a href="https://dev.to/https://dev.to/yogionbioinformatics" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/yogionbioinformatics" height="50" width="50" /></a>
