@@ -241,7 +241,9 @@
 </table>
 
 
-![profile counter](https://profile-counter.glitch.me/YogiOnBioinformatics/count.svg)
+### Stats
+
+Profile Views: &ensp; ![profile counter](https://profile-counter.glitch.me/YogiOnBioinformatics/count.svg)
 
 
 <p align="center">
