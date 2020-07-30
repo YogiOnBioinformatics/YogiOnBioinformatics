@@ -437,8 +437,36 @@ Profile Views: &ensp; ![profile counter](https://profile-counter.glitch.me/YogiO
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogiOnBioinformatics&count_private=true&show_icons=true&theme=radical&line_height=40&show_owner=true" align="center">
 
 
+<a href="https://github.com/YogiOnBioinformatics/Computational-Drug-Discovery-Internship-at-Merck">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=YogiOnBioinformatics&repo=Computational-Drug-Discovery-Internship-at-Merck&show_owner=true&theme=blue-green" />
+</a>
+<a href="https://github.com/YogiOnBioinformatics/DAME-Destruction-of-Aqueous-Microfibers-Enzymatically">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YogiOnBioinformatics&repo=DAME-Destruction-of-Aqueous-Microfibers-Enzymatically&show_owner=true&theme=blue-green" />
+</a>
+<a href="https://github.com/YogiOnBioinformatics/ProteinVR">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=YogiOnBioinformatics&repo=ProteinVR&show_owner=true&theme=blue-green" />
+</a>
+<a href="https://github.com/YogiOnBioinformatics/Teaching-Assistant-Computational-Genomics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YogiOnBioinformatics&repo=Teaching-Assistant-Computational-Genomics&show_owner=true&theme=blue-green" />
+</a>
+<a href="https://github.com/YogiOnBioinformatics/Differential-Gene-Expression-Analysis-with-Machine-Learning-Using-Dexamethasone-Treatment-Data">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=YogiOnBioinformatics&repo=Differential-Gene-Expression-Analysis-with-Machine-Learning-Using-Dexamethasone-Treatment-Data&show_owner=true&theme=blue-green" />
+</a>
+<a href="https://github.com/YogiOnBioinformatics/Maternal-to-Zygotic-Transition-in-Xenopus-laevis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YogiOnBioinformatics&repo=Maternal-to-Zygotic-Transition-in-Xenopus-laevis&show_owner=true&theme=blue-green" />
+</a>
+<a href="https://github.com/YogiOnBioinformatics/Tumor-Exome-Mutation-Analysis">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=YogiOnBioinformatics&repo=Tumor-Exome-Mutation-Analysis&show_owner=true&theme=blue-green" />
+</a>
+<a href="https://github.com/YogiOnBioinformatics/BLAST-Biopython-Challenge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YogiOnBioinformatics&repo=BLAST-Biopython-Challenge&show_owner=true&theme=blue-green" />
+</a>
+
+<br>
+<br>
+
 <p align="center">
-<a href="https://dev.to/https://dev.to/yogionbioinformatics" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/yogionbioinformatics" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yogionbioinformatics/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/yogionbioinformatics/" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/https://stackoverflow.com/users/10007125/yogionbioinformatics" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/10007125/yogionbioinformatics" height="50" width="50" /></a>
+<a href="https://dev.to/https://dev.to/yogionbioinformatics" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/yogionbioinformatics" height="100" width="100" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yogionbioinformatics/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/yogionbioinformatics/" height="100" width="100" /></a>
+<a href="https://stackoverflow.com/https://stackoverflow.com/users/10007125/yogionbioinformatics" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/10007125/yogionbioinformatics" height="100" width="100" /></a>
 </p>
