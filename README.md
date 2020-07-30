@@ -63,7 +63,7 @@
 
 - 📫 How to reach me: **yraghav97@gmail.com**
 
-### Platforms/Operating Systems 
+## Platforms/Operating Systems 
 
 <table>
   <tbody>
@@ -93,7 +93,7 @@
 </table>
 
 
-### Languages
+## Languages
 
 <table>
   <tbody>
@@ -144,7 +144,7 @@
   </tbody>
 </table>
       
-### Technologies/Tools 
+## Technologies/Tools 
 
 
 <table>
@@ -241,7 +241,7 @@
 </table>
         
 
-### Bioinformatics Databases 
+## Bioinformatics Databases 
 
 <table>
   <tbody>
@@ -315,7 +315,7 @@
 </table>
 
 
-### Bioinformatics Tools 
+## Bioinformatics Tools 
 
 <table>
   <tbody>
@@ -430,7 +430,7 @@
   </tbody>
 </table>
 
-### Stats
+## Stats
 Profile Views: &ensp; ![profile counter](https://profile-counter.glitch.me/YogiOnBioinformatics/count.svg)
 
 <img src="https://github-readme-stats.vercel.app/api?username=YogiOnBioinformatics&count_private=true&show_icons=true&theme=radical&line_height=40&show_owner=true" align="left">
