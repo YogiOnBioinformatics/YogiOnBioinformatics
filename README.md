@@ -285,7 +285,7 @@
         <img height="64px" src="https://antismash.secondarymetabolites.org/images/antismash_logo.svg">
       </td>
       <td width="20%" align="center">
-        <span><strong>PDB</strong><span><br><br>
+        <span><strong>Protein Data Bank</strong><span><br><br>
         <img height="64px" src="https://cdn.rcsb.org/wwpdb/img/core/wwpdb-logo.png">
       </td>
     </tr>
