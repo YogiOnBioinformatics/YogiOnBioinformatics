@@ -396,7 +396,7 @@
       </td>
       <td width="20%" align="center">
         <span><strong>EMBOSS</strong><span><br><br>
-        <img height="64px" src="https://lh3.googleusercontent.com/proxy/jXSuo67UDaGi9VHJgdYYIug9_xkYnhgtDknIo_HZtgnfdpk38KeZFPl3l2VUgUiDvhvi0aWf1nu8ZFOEMnF-osZsMAbci7g">
+        <img height="64px" src="http://emboss.sourceforge.net/images/emboss.jpg">
       </td>
       <td width="20%" align="center">
         <span><strong>MEGAX</strong><span><br><br>
