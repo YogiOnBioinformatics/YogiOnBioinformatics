@@ -251,8 +251,8 @@
         <img height="64px" src="https://www.ncbi.nlm.nih.gov/geo/img/geo_main.gif">
       </td>
       <td width="20%" align="center">
-        <span><strong>NCBI SRA</strong><span><br><br>
-        <img height="64px" src="https://www.lib.berkeley.edu/BIOS/images/NCBI-Logo_sm.jpg">
+        <span><strong>KEGG</strong><span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/KEGG_database_logo.gif/175px-KEGG_database_logo.gif">
       </td>
       <td width="20%" align="center">
         <span><strong>International Human Epigenome Consortium</strong><span><br><br>
