@@ -421,7 +421,8 @@
         <img height="64px" src="https://images.exxactcorp.com/CMS/landing-page/resource-center/supported-software/molecular-dynamics/vmd/VMD-Logo.jpg">
       </td>
       <td width="20%" align="center">
-        <span><strong></strong><span><br><br>
+        <span><strong>g:Profiler</strong><span><br><br>
+        <img height="64px" src="https://biit.cs.ut.ee/gprofiler/gp2-logo-new.png"
       </td>
       <td width="20%" align="center">
         <span><strong></strong><span><br><br>
