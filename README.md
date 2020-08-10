@@ -237,6 +237,24 @@
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg">
       </td>
     </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span><strong>SLURM</strong><span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Slurm_logo.svg/590px-Slurm_logo.svg.png">
+      </td>
+      <td width="20%" align="center">
+        <span><strong></strong><span><br><br>
+      </td>
+      <td width="20%" align="center">
+        <span><strong></strong><span><br><br>
+      </td>
+      <td width="20%" align="center">
+        <span><strong></strong><span><br><br>
+      </td>
+      <td width="20%" align="center">
+        <span><strong></strong><span><br><br>
+      </td>
+    </tr>
   </tbody>
 </table>
         
